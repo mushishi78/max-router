@@ -1,0 +1,27 @@
+{
+  "name": "max-router",
+  "version": "1.0.0",
+  "description": "Opinionated browser routing configuration",
+  "main": "max-router.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mushishi78/max-router.git"
+  },
+  "keywords": [
+    "router",
+    "browser",
+    "history",
+    "url",
+    "mapping"
+  ],
+  "author": "Max White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mushishi78/max-router/issues"
+  },
+  "homepage": "https://github.com/mushishi78/max-router#readme",
+  "dependencies": {
+    "history": "^4.7.2",
+    "url-mapper": "^2.0.0"
+  }
+}
